@@ -1,15 +1,13 @@
-# webpack-configuracion-estandar
-Fin de la sección 8
+# App Lista de Tareas JS
+Una aplicación desarrollada con JavaScript para añadir, marcar como realizada o eliminar una tarea.
 
 
 ## Nota
-Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
+Está aplicación se desarrolla meramente para el aprendizaje de JS ES6
 
 ```
 npm install
 ```
-
-Y para crear nuevamente el DIST
 
 ```
 npm start
